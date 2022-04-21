@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @yusuf10101
+- 👀 I’m interested in codding and hacking
+- 🌱 I’m currently learning about it on javasript
